@@ -1,0 +1,2 @@
+Don't forget that creating the file from here may create the file in the wrong directory!
+- [[magic/固有武器]] in [[(template/レギュメン用プロフィール]], [[Emma's family/Crawfords/アリッサ・クロフォード]], [[Emma's family/Crawfords/エマ・クロフォード]], [[Filreil's student/エレイン・アシュトン]], [[Halford school/(overview/ハルフォードについて]], [[Katslouge student/アニー・メルトン]], [[deleter/leader (hades)/ハデス]], [[deleter/leader (hades)/ロジャー・ミゲル]]

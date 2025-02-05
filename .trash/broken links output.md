@@ -1,0 +1,2 @@
+Don't forget that creating the file from here may create the file in the wrong directory!
+- [[基本パラメータ]] in [[Emma's family/Crawfords/アリッサ・クロフォード]], [[Emma's family/Crawfords/エマ・クロフォード]], [[Emma's family/Crawfords/フクロウのリチャード]], [[Katslouge student/アニー・メルトン]]
