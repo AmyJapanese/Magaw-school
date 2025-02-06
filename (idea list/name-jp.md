@@ -2,6 +2,8 @@
 aliases:
 ---
 # material
+no ayatsuru chikara
+kamisama no kutsurogi
 # surname
 くぼ（４）
 かに（４）
@@ -11,6 +13,7 @@ aliases:
 つじ（５）
 くの（４）
 つだ（５）
+
 # given name
 せな（４）
 かほ（４）

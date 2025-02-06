@@ -1,38 +1,38 @@
 {
   "main": {
-    "id": "03e5bc23fdc79395",
+    "id": "ce89614b47afb226",
     "type": "split",
     "children": [
       {
-        "id": "acdf0747743716cb",
+        "id": "92768bdd3f9d201c",
         "type": "tabs",
         "children": [
           {
-            "id": "e14c52a0ea5fcd45",
+            "id": "0e4f94627d787244",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "deleter/leader (hades)/ハデス.md",
-                "mode": "source",
-                "source": false
+                "aFile": "(idea list/name-jp.md",
+                "bFile": "(idea list/name-jp.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ハデス"
+              "icon": "diff",
+              "title": "Diff: name-jp"
             }
           },
           {
-            "id": "3a92ce60cd21dd35",
+            "id": "91359501a9545d52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(idea list/name-jp.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "name-jp"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -42,15 +42,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e9ae0ba0c973e84a",
+    "id": "f0838328a3d87f12",
     "type": "split",
     "children": [
       {
-        "id": "e9584c4fcd385261",
+        "id": "02204aad5ab781e2",
         "type": "tabs",
         "children": [
           {
-            "id": "91da9d076211d2ce",
+            "id": "9f72f94ccbe0992b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,12 +63,12 @@
             }
           },
           {
-            "id": "00a8e91a1cebbec9",
+            "id": "35eb776a1dec8104",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mentor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "2bd0acdda3290722",
+            "id": "c956765e6df0f08d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,86 +88,95 @@
               "icon": "lucide-bookmark",
               "title": "ブックマーク"
             }
-          },
-          {
-            "id": "8ed2ff402d319404",
-            "type": "leaf",
-            "state": {
-              "type": "trash-explorer",
-              "state": {},
-              "icon": "trash",
-              "title": "Trash explorer"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 228.50651168823242
+    "width": 200
   },
   "right": {
-    "id": "6f09e85e6f69eb6d",
+    "id": "16de7adf3b64130e",
     "type": "split",
     "children": [
       {
-        "id": "24bbb54b7ec6fb70",
+        "id": "36ab2865a3dac440",
         "type": "tabs",
+        "dimension": 51.590909090909086,
         "children": [
           {
-            "id": "ee49170506042b8f",
+            "id": "b9eb6c8dd9ac8053",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "conflict-files-obsidian-gitからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "8a4bfb66be135b64",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(idea list/name-jp.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "name-jpへのバックリンク"
+              "title": "conflict-files-obsidian-gitへのバックリンク"
             }
           },
           {
-            "id": "e5e9b3d5d23bb5a5",
+            "id": "f1efbfa638166e43",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "(idea list/name-jp.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "name-jpからのアウトゴーイングリンク"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a84036df21cdfdb5",
+        "type": "tabs",
+        "dimension": 48.40909090909091,
+        "children": [
           {
-            "id": "83c03da9fd04d78e",
+            "id": "a0114b782f79a1ef",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "magic item/common item/マジックジェム.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "マジックジェムのアウトライン"
+              "title": "conflict-files-obsidian-gitのアウトライン"
             }
           },
           {
-            "id": "8117595852f0a388",
+            "id": "b9c46c1961151063",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,12 +185,11 @@
               "title": "タグ"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,53 +199,19 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
+      "random-note:ランダムノートを開く": false,
       "obsidian-kanban:カンバンボードを新規作成": false,
       "obsidian-trash-explorer:Open trash explorer": false,
-      "random-note:ランダムノートを開く": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "zk-prefixer:新規ユニークノートの作成": false,
+      "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "91da9d076211d2ce",
+  "active": "91359501a9545d52",
   "lastOpenFiles": [
-    "(idea list/name-en.md",
-    "magic item/common item/マジックジェム.md",
-    "(outline/canon/１年目あらすじ.md",
-    "(outline/fanon/Emma and Roger/幼少期あらすじ.md",
+    "conflict-files-obsidian-git.md",
     "(idea list/name-jp.md",
-    "Emma's family/Crawfords/エマ・クロフォード.md",
-    "deleter/leader (hades)/ロジャー・ミゲル.md",
-    "Emma's family/Meltons/ローザおばさん.md",
-    "Katzlouge house/アニー・メルトン.md",
-    "Halford teacher/other/モーリス・グリーメン.md",
-    "Halford teacher/house manager/アメリア・ウッド.md",
-    "deleter/(overview/デリーターについて.md",
-    "(outline/fanon/Emma and Roger",
-    "(outline/fanon/Emma and Roger/early life",
-    "(outline/fanon",
-    "(outline/canon",
-    "Halford school/rooms/封印の部屋.md",
-    "Halford school/(overview/ハルフォードについて.md",
-    "Halford school/locations/ハルフォード城.md",
-    "Emma's family/Crawfords/フクロウのリチャード.md",
-    "Emma's family/Crawfords/サミュエル・E・クロフォード.md",
-    "deleter/leader (hades)/ハデス.md",
-    "Halford school/founder's treasure/マクスウェルの遊技盤.md",
-    "Halford school/founder's treasure/リーブエルムの魔導書.md",
-    "Halford school/four houses/４つの寮.md",
-    "Halford school/four houses/フィルレイル寮.md",
-    "Halford school/four houses/カッツローグ寮.md",
-    "Halford school/four founders/ヘスター・マクスウェル.md",
-    "Halford school/four founders/フィリア・リーブエルム.md",
-    "Halford school/four founders/バーバラ・フィルレイル.md",
-    "(outline/canon/1 year",
-    "magic item/legendary item",
-    "magic category/Advanced Magic",
-    "Law&Rule/Magic Law",
-    "Law&Rule/magic punishment",
-    "magic category/dark magic/curse",
-    "世界観画像/Soeロゴ.png",
-    "無印・キャラ設定/相関図.canvas",
-    "画像/2dg.jpg",
-    "無題のファイル.canvas"
+    "(idea list/name-en.md"
   ]
 }
