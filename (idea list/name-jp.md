@@ -2,6 +2,7 @@
 aliases:
 ---
 # material
+saigetsu ni mushi bamarete
 # surname
 くぼ（４）
 かに（４）
@@ -10,10 +11,8 @@ aliases:
 すの（４）
 つじ（５）
 くの（４）
-さくま（６）
 # given name
 せな（４）
-かよ（４）
 ここ（４）
 かほ（４）
 めい（３）
