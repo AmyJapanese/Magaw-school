@@ -202,7 +202,10 @@
     "type2": 73,
     "mentor/kindman": 7,
     "filreil/manager": 5,
-    "shadow/toxicparent": 7
+    "shadow/toxicparent": 7,
+    "shadow/mentor": 8,
+    "mentor/thirdparty": 8,
+    "mentor/betrayal": 9
   },
   "_version": 3
 }
