@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "magic item/common item/マジックジェム.md",
+                "file": "(idea list/name-jp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "マジックジェム"
+              "title": "name-jp"
             }
           }
         ],
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "magic item/common item/マジックジェム.md",
+                "file": "(idea list/name-jp.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "マジックジェムからのアウトゴーイングリンク"
+              "title": "name-jpからのアウトゴーイングリンク"
             }
           },
           {
@@ -199,9 +199,10 @@
   },
   "active": "3a92ce60cd21dd35",
   "lastOpenFiles": [
+    "(idea list/name-en.md",
+    "magic item/common item/マジックジェム.md",
     "(outline/canon/１年目あらすじ.md",
     "(outline/fanon/Emma and Roger/幼少期あらすじ.md",
-    "(idea list/name-en.md",
     "(idea list/name-jp.md",
     "Emma's family/Crawfords/エマ・クロフォード.md",
     "deleter/leader (hades)/ロジャー・ミゲル.md",
@@ -209,7 +210,6 @@
     "Katzlouge house/アニー・メルトン.md",
     "Halford teacher/other/モーリス・グリーメン.md",
     "Halford teacher/house manager/アメリア・ウッド.md",
-    "magic item/common item/マジックジェム.md",
     "deleter/(overview/デリーターについて.md",
     "(outline/fanon/Emma and Roger",
     "(outline/fanon/Emma and Roger/early life",
