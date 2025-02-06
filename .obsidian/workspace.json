@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emma's family/Crawfords/エマ・クロフォード.md",
+                "file": "(outline/fanon/Emma and Roger/幼少期あらすじ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "エマ・クロフォード"
+              "title": "幼少期あらすじ"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emma's family/Crawfords/エマ・クロフォード.md",
+                "file": "(outline/fanon/Emma and Roger/幼少期あらすじ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "エマ・クロフォードへのバックリンク"
+              "title": "幼少期あらすじへのバックリンク"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emma's family/Crawfords/エマ・クロフォード.md",
+                "file": "(outline/fanon/Emma and Roger/幼少期あらすじ.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "エマ・クロフォードからのアウトゴーイングリンク"
+              "title": "幼少期あらすじからのアウトゴーイングリンク"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emma's family/Crawfords/エマ・クロフォード.md",
+                "file": "(outline/fanon/Emma and Roger/幼少期あらすじ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "エマ・クロフォードのアウトライン"
+              "title": "幼少期あらすじのアウトライン"
             }
           },
           {
@@ -176,7 +176,8 @@
               "title": "タグ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,14 +199,15 @@
   },
   "active": "3a92ce60cd21dd35",
   "lastOpenFiles": [
-    "(outline/canon/１年目あらすじ.md",
-    "Katzlouge house/アニー・メルトン.md",
+    "Emma's family/Crawfords/エマ・クロフォード.md",
     "(outline/fanon/Emma and Roger/幼少期あらすじ.md",
+    "deleter/leader (hades)/ロジャー・ミゲル.md",
+    "(outline/canon/１年目あらすじ.md",
+    "Emma's family/Meltons/ローザおばさん.md",
+    "Katzlouge house/アニー・メルトン.md",
     "Halford teacher/other/モーリス・グリーメン.md",
     "Halford teacher/house manager/アメリア・ウッド.md",
-    "Emma's family/Crawfords/エマ・クロフォード.md",
     "magic item/common item/マジックジェム.md",
-    "deleter/leader (hades)/ロジャー・ミゲル.md",
     "deleter/(overview/デリーターについて.md",
     "(outline/fanon/Emma and Roger",
     "(outline/fanon/Emma and Roger/early life",
@@ -227,7 +229,6 @@
     "Halford school/four founders/バーバラ・フィルレイル.md",
     "Halford school/four founders/ゴードン・カッツローグ.md",
     "Halford school/founder's treasure/overview/創設の宝について.md",
-    "Halford school/founder's treasure/カッツローグの剣.md",
     "(outline/canon/1 year",
     "magic item/legendary item",
     "magic category/Advanced Magic",
