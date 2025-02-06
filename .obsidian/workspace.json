@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(idea list/name-jp.md",
+                "file": "magic item/common item/マジックジェム.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "name-jpのアウトライン"
+              "title": "マジックジェムのアウトライン"
             }
           },
           {
@@ -167,7 +167,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,18 +196,19 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "3a92ce60cd21dd35",
+  "active": "8117595852f0a388",
   "lastOpenFiles": [
     "(idea list/name-en.md",
+    "magic item/common item/マジックジェム.md",
+    "(outline/canon/１年目あらすじ.md",
     "(outline/fanon/Emma and Roger/幼少期あらすじ.md",
+    "(idea list/name-jp.md",
     "Emma's family/Crawfords/エマ・クロフォード.md",
     "deleter/leader (hades)/ロジャー・ミゲル.md",
-    "(outline/canon/１年目あらすじ.md",
     "Emma's family/Meltons/ローザおばさん.md",
     "Katzlouge house/アニー・メルトン.md",
     "Halford teacher/other/モーリス・グリーメン.md",
     "Halford teacher/house manager/アメリア・ウッド.md",
-    "magic item/common item/マジックジェム.md",
     "deleter/(overview/デリーターについて.md",
     "(outline/fanon/Emma and Roger",
     "(outline/fanon/Emma and Roger/early life",
@@ -227,7 +228,6 @@
     "Halford school/four founders/ヘスター・マクスウェル.md",
     "Halford school/four founders/フィリア・リーブエルム.md",
     "Halford school/four founders/バーバラ・フィルレイル.md",
-    "Halford school/four founders/ゴードン・カッツローグ.md",
     "(outline/canon/1 year",
     "magic item/legendary item",
     "magic category/Advanced Magic",
