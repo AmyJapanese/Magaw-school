@@ -140,7 +140,7 @@
               "state": {
                 "file": "(idea list/name-jp.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "name-jpからのアウトゴーイングリンク"
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "magic item/common item/マジックジェム.md",
+                "file": "(idea list/name-jp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "マジックジェムのアウトライン"
+              "title": "name-jpのアウトライン"
             }
           },
           {
@@ -167,7 +167,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,22 +193,22 @@
       "command-palette:コマンドパレットを開く": false,
       "random-note:ランダムノートを開く": false,
       "obsidian-kanban:カンバンボードを新規作成": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8117595852f0a388",
+  "active": "e5e9b3d5d23bb5a5",
   "lastOpenFiles": [
     "(idea list/name-en.md",
-    "magic item/common item/マジックジェム.md",
-    "(outline/canon/１年目あらすじ.md",
     "(outline/fanon/Emma and Roger/幼少期あらすじ.md",
-    "(idea list/name-jp.md",
     "Emma's family/Crawfords/エマ・クロフォード.md",
     "deleter/leader (hades)/ロジャー・ミゲル.md",
+    "(outline/canon/１年目あらすじ.md",
     "Emma's family/Meltons/ローザおばさん.md",
     "Katzlouge house/アニー・メルトン.md",
     "Halford teacher/other/モーリス・グリーメン.md",
     "Halford teacher/house manager/アメリア・ウッド.md",
+    "magic item/common item/マジックジェム.md",
     "deleter/(overview/デリーターについて.md",
     "(outline/fanon/Emma and Roger",
     "(outline/fanon/Emma and Roger/early life",
@@ -228,6 +228,7 @@
     "Halford school/four founders/ヘスター・マクスウェル.md",
     "Halford school/four founders/フィリア・リーブエルム.md",
     "Halford school/four founders/バーバラ・フィルレイル.md",
+    "Halford school/four founders/ゴードン・カッツローグ.md",
     "(outline/canon/1 year",
     "magic item/legendary item",
     "magic category/Advanced Magic",
