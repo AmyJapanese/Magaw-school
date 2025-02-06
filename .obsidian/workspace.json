@@ -95,8 +95,8 @@
             "state": {
               "type": "trash-explorer",
               "state": {},
-              "icon": "trash",
-              "title": "Trash explorer"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           }
         ]
@@ -191,10 +191,9 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "obsidian-kanban:カンバンボードを新規作成": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
       "random-note:ランダムノートを開く": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
   "active": "3a92ce60cd21dd35",
