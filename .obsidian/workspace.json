@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "magic item/common item/マジックジェム.md",
+                "file": "(idea list/name-jp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "マジックジェムへのバックリンク"
+              "title": "name-jpへのバックリンク"
             }
           },
           {
@@ -167,7 +167,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a92ce60cd21dd35",
+  "active": "8117595852f0a388",
   "lastOpenFiles": [
     "(idea list/name-en.md",
     "magic item/common item/マジックジェム.md",
