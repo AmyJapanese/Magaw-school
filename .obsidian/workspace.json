@@ -132,8 +132,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a84036df21cdfdb5",
@@ -174,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +192,7 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "0e4f94627d787244",
+  "active": "b9eb6c8dd9ac8053",
   "lastOpenFiles": [
     "(idea list/name-en.md",
     "conflict-files-obsidian-git.md",
