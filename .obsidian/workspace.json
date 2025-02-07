@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(idea list/name-en.md",
+                "file": "(idea list/name-jp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "name-en"
+              "title": "name-jp"
             }
           }
         ]
@@ -87,7 +87,7 @@
       {
         "id": "36ab2865a3dac440",
         "type": "tabs",
-        "dimension": 51.590909090909086,
+        "dimension": 51.59090909090909,
         "children": [
           {
             "id": "b9eb6c8dd9ac8053",
@@ -95,12 +95,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(idea list/name-en.md",
+                "file": "(idea list/name-jp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "name-enからのアウトゴーイングリンク"
+              "title": "name-jpからのアウトゴーイングリンク"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(idea list/name-en.md",
+                "file": "(idea list/name-jp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "name-enへのバックリンク"
+              "title": "name-jpへのバックリンク"
             }
           },
           {
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(idea list/name-en.md",
+                "file": "(idea list/name-jp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "name-enのアウトライン"
+              "title": "name-jpのアウトライン"
             }
           },
           {
@@ -188,14 +188,13 @@
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-git:Open Git source control": false,
       "workspaces:ワークスペースレイアウトを管理": false,
-      "zk-prefixer:新規ユニークノートの作成": false,
-      "markdown-importer:Markdownインポーターを開く": false
+      "zk-prefixer:新規ユニークノートの作成": false
     }
   },
   "active": "0e4f94627d787244",
   "lastOpenFiles": [
-    "(idea list/name-jp.md",
     "(idea list/name-en.md",
+    "(idea list/name-jp.md",
     "conflict-files-obsidian-git.md"
   ]
 }
