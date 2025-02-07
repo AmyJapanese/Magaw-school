@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(idea list/name-jp.md",
+                "file": "(idea list/name-en.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "name-jp"
+              "title": "name-en"
             }
           }
         ]
@@ -95,12 +95,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(idea list/name-jp.md",
+                "file": "(idea list/name-en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "name-jpからのアウトゴーイングリンク"
+              "title": "name-enからのアウトゴーイングリンク"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(idea list/name-jp.md",
+                "file": "(idea list/name-en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "name-jpへのバックリンク"
+              "title": "name-enへのバックリンク"
             }
           },
           {
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(idea list/name-jp.md",
+                "file": "(idea list/name-en.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "name-jpのアウトライン"
+              "title": "name-enのアウトライン"
             }
           },
           {
@@ -192,10 +192,10 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "b9eb6c8dd9ac8053",
+  "active": "0e4f94627d787244",
   "lastOpenFiles": [
+    "(idea list/name-jp.md",
     "(idea list/name-en.md",
-    "conflict-files-obsidian-git.md",
-    "(idea list/name-jp.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
