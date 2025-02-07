@@ -2,6 +2,7 @@
 aliases:
 ---
 # material
+
 # surname
 くぼ（４）
 かに（４）
