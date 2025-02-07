@@ -2,7 +2,8 @@
 aliases:
 ---
 # material
-
+tsuki no fune
+hoshi no hayashi
 # surname
 くぼ（４）
 かに（４）
@@ -12,8 +13,8 @@ aliases:
 つじ（５）
 くの（４）
 つだ（５）
-さの（４）
+とりの（６）
 # given name
 せな（４）
 かほ（４）
-りつか（７）
+りつ（５）
