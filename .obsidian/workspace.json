@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "magic category/dark magic/curse/改ざんの呪.md",
+                "file": "magic category/Advanced Magic/忘却魔法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "改ざんの呪"
+              "title": "忘却魔法"
             }
           }
         ]
@@ -95,12 +95,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "magic category/dark magic/curse/改ざんの呪.md",
+                "file": "magic category/Advanced Magic/忘却魔法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "改ざんの呪からのアウトゴーイングリンク"
+              "title": "忘却魔法からのアウトゴーイングリンク"
             }
           },
           {
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "magic category/dark magic/curse/改ざんの呪.md",
+                "file": "magic category/Advanced Magic/忘却魔法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "改ざんの呪のアウトライン"
+              "title": "忘却魔法のアウトライン"
             }
           },
           {
@@ -193,9 +193,9 @@
   },
   "active": "0e4f94627d787244",
   "lastOpenFiles": [
-    "magic category/dark magic/forbidden spell/老化の呪.md",
     "magic category/dark magic/curse/改ざんの呪.md",
     "magic category/Advanced Magic/忘却魔法.md",
+    "magic category/dark magic/forbidden spell/老化の呪.md",
     "magic category/Advanced Magic/治癒魔法.md",
     "Law&Rule/magic punishment/滅却刑.md",
     "magic category/category/古代魔法.md",
